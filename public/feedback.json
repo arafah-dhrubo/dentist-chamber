@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Sophie Moore",
+        "image":"https://assets.website-files.com/601d7e7320ecf079f58169fd/603bca6ccdeb02c19cda19a3_testimonial-1-webflow-template-dentist-p-500.jpeg",
+        "comment":"The services that I receive from my dentist is excellent. Dr. John Doe and the staff are friendly and ensure that I am properly informed about my health and care. I would have no qualms in recommending them to friendly and friends."
+    },
+    {
+        "id":2,
+        "name":"Morgan Woods",
+        "image":"https://assets.website-files.com/601d7e7320ecf079f58169fd/60216dc5c94b721853e85fb9_image-2-testimonial-dentist-template-p-500.jpeg",
+        "comment":"Dr. John did a great job with my first ever health exam. She explained everything to me in a very clear manner. She was also kind and friendly. All of the staff was great – they were helpful, patient and helped with my insurance."
+    },
+    {
+        "id":3,
+        "name":"Lila Wood",
+        "image":"https://assets.website-files.com/601d7e7320ecf079f58169fd/603bc5e331820c28e3a63109_testimonial-4-dentist-webflow-template-p-500.jpeg",
+        "comment":" Wonderful experience with Dentist. Dr. John was a wonderful surgeon, and the staff was always helpful and kind. They ensured I had a smooth prep, surgery, and follow-up. I am so glad I chose Dentist and would highly recommend to anyone"
+    },
+    {
+        "id":4,
+        "name":"Jenn Hiller",
+        "image":"https://assets.website-files.com/601d7e7320ecf079f58169fd/60216dc6cd5e00e6e75f6a6e_image-4-testimonial-dentist-template.jpg",
+        "comment":"Dr. John is incredible. Not only has she taken great care of my health, but also she is lovely to speak with at every appointment. It’s rare to find a doctor that combines such personal touches and care for a patient as a person with outstanding quality of medical care. I highly recommend becoming her patient!"
+    },
+    {
+        "id":5,
+        "name":"John Carter",
+        "image":"https://assets.website-files.com/601d7e7320ecf079f58169fd/603bc59eaae3c152ee526aa1_testimonial-5-webflow-template-dentist-p-500.jpeg",
+        "comment":"Great medical office, wonderful and warm experience from start to finish. Appreciate Dr. John taking time to go over the diagnosis clearly and treatment options. Was referred over by my general doctor and can see why. Highly recommended."
+    }
+]

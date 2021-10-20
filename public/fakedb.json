@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Cosmetic Dentristy",
+        "image":"https://assets.website-files.com/601d7e7320ecf0fa9e816a33/60bb873f67aecc71736f3b22_cosmetic-dentistry-dentist-webflow-template.svg",
+        "short":"teeth whitening, veneers, fillings, and implants",
+        "description": "professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
+        "price":25
+    },
+    {
+        "id": 2,
+        "name": "Orthodontics",
+        "image":"https://assets.website-files.com/601d7e7320ecf0fa9e816a33/60bb87466544e0596f5c10f1_orthodontics-dentist-webflow-template.svg",
+        "short":"teeth whitening, veneers, fillings, and implants",
+        "description": "professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
+        "price":25
+    },
+    {
+        "id": 3,
+        "name": "Oral Hygiene",
+        "image":"https://assets.website-files.com/601d7e7320ecf0fa9e816a33/60bb874c82759a7762ec0820_oral-hygiene-dentist-webflow-template.svg",
+        "short":"teeth whitening, veneers, fillings, and implants",
+        "description": "professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
+        "price":25
+    },
+    {
+        "id": 4,
+        "name": "Dental Treatment",
+        "image":"https://assets.website-files.com/601d7e7320ecf0fa9e816a33/60bb8752f6078b572c75fbf9_dental-treatment-dentist-webflow-template.svg",
+        "short":"teeth whitening, veneers, fillings, and implants",
+        "description": "professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
+        "price":25
+    },
+    {
+        "id": 5,
+        "name": "Dental Surgery",
+        "image":"https://assets.website-files.com/601d7e7320ecf0fa9e816a33/60bb87590c28d3760172637f_dental-surgery-dentist-webflow-template.svg",
+        "short":"teeth whitening, veneers, fillings, and implants",
+        "description": "professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
+        "price":25
+    },
+    {
+        "id": 6,
+        "name": "Dental Implants",
+        "image":"https://assets.website-files.com/601d7e7320ecf0fa9e816a33/60bb876299013621b3a156cd_dental-implants-dentist-webflow-template.svg",
+        "short":"teeth whitening, veneers, fillings, and implants",
+        "description": "professional oral care focuses on improving the appearance of your mouth, teeth, gums, and overall smile. Common procedures include teeth whitening, veneers, fillings, and implants.",
+        "price":25
+    }
+]
